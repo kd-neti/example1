@@ -15,8 +15,8 @@ on:
       - main
 
 env:
-  IMAGE_NAME: "image_name" # Required
-  IMAGE_TAG: "image_tag" # Required
+  IMAGE_NAME: "example1" # Required
+  IMAGE_TAG: "0.1" # Required
   GO111MODULE: on
   
 jobs:
